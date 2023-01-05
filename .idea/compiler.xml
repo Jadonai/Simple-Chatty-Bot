@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-kotlin.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Get_last_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Return_type.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-The_square_of_a_number.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-The_product_of_numbers_from_a_to_b.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-The_roots_of_equation.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Check_a_number_is_positive.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Find_the_output.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Find_the_output__1_.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Healthy_sleep.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Positive,_Negative_or_Zero.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Statements_about_brackets_in_if.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-The_max_of_two_numbers_without_else-branch.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-At_least_one.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Between_two_numbers.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Check_the_value.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Check_the_value__1_.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Job.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Not_in_range.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Counting_positive_numbers.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Increment_in_loop.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Kotlin_x5.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Repeat_by_value.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-Bank_interest_calculation.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-Choose_the_correct_ones.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-The_sum_of_elements.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-What_does_the_code_print.main" target="11" />
+      <module name="Simple_Chatty_Bot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
